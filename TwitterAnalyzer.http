@@ -1,0 +1,6 @@
+@TwitterAnalyzer_HostAddress = http://localhost:5286
+
+GET {{TwitterAnalyzer_HostAddress}}/classify/
+Accept: application/json
+
+###
